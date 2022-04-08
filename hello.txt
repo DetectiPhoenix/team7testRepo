@@ -1,0 +1,14 @@
+This is my first commit. How are you doing, reader?
+Why don't you put your name down here?
+
+Try creating a new branch, where you add your name to this document.
+Then, we will merge the branches.
+
+Choose a random number to put your name in - If there are merge issues,
+now is a wonderful time to practice sorting those out.
+1.
+2.
+3.
+4.
+
+...There are four people in our group, right?
